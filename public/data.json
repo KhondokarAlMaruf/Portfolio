@@ -1,0 +1,64 @@
+[
+    {
+        "id": "1",
+        "title": "Summer Camp School",
+        "description": [
+            "Students can buy any classes and view all instructor profiles.",
+            " Instructors can add classes and Admin can approve it",
+            "Protected route and secure API projected by JWT"
+        ],
+        "img": "https://i.ibb.co/R0R4Jbk/a-12-ss.png",
+        "technology": [
+            "ReactJS, NodeJS, JS "
+        ],
+        "isItNew": "NEW",
+        "liveSite": "https://martial-arts-summer-camp.netlify.app",
+        "github": "https://github.com/programming-hero-web-course1/b712-summer-camp-client-side-KhondokarAlMaruf/tree/main"
+    },
+    {
+        "id": "2",
+        "title": "Super Toy Cars",
+        "description": [
+            "Authentication system with google",
+            "Users can add any toy and also can view, update and delete.",
+            "Users can see other user’s toy information"
+        ],
+        "img": "https://i.ibb.co/XWdxzCh/a-11-ss.png",
+        "technology": [
+            "ReactJS, NodeJS, JS"
+        ],
+        "liveSite": " https://super-toy-cars.web.app/",
+        "github": " https://github.com/programming-hero-web-course-4/b7a11-toy-marketplace-server-side-KhondokarAlMaruf"
+    },
+    {
+        "id": "3",
+        "title": "The Foodies",
+        "description": [
+            "Authentication system with google",
+            "Users can view food item and add this in his favourite.",
+            "A Users can see details of Master Chefs."
+        ],
+        "img": "https://i.ibb.co/P5YCJVS/a-10-ss.png",
+        "technology": [
+            "ReactJS, NodeJS, JS"
+        ],
+        "isItNew": "NEW",
+        "liveSite": " https://the-foodies-a39b8.web.app/",
+        "github": "https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-client-side-KhondokarAlMaruf"
+    },
+    {
+        "id": "4",
+        "title": "Dream Hub",
+        "description": [
+            "A user can find his job.",
+            "After finding job, he can view details of job.",
+            "And Finally user can apply for job."
+        ],
+        "img": "https://i.ibb.co/6XLdjT0/a-10-sss.png",
+        "technology": [
+            "ReactJS, NodeJS, JS"
+        ],
+        "liveSite": "https://playful-eclair-541bd2.netlify.app",
+        "github": "https://github.com/Porgramming-Hero-web-course/b7a9-career-hub-KhondokarAlMaruf"
+    }
+]
