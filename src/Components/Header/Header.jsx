@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import Typewriter from "typewriter-effect";
 import maruf from "../../assets/maruf.jpeg";
 import {
@@ -6,7 +7,7 @@ import {
   FaGithub,
   FaLinkedinIn,
 } from "react-icons/fa";
-import resume from "../../assets/resume/Khondokar Al Maruf_Frontend Developer.pdf";
+import resume from "../../assets/resume/Khondokar Al Maruf_Full Stack Developer.pdf";
 
 const Header = () => {
   return (

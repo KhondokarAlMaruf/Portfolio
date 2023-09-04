@@ -1,7 +1,7 @@
 import { FaCloudDownloadAlt } from "react-icons/fa";
 import { Link } from "react-router-dom";
 import maruf from "../../assets/Images/maruf.jpeg";
-import resume from "../../assets/resume/Khondokar Al Maruf_Frontend Developer.pdf";
+import resume from "../../assets/resume/Khondokar Al Maruf_Full Stack Developer.pdf";
 
 const Navbar = () => {
   return (

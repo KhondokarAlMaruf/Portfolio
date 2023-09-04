@@ -12,8 +12,8 @@
             "ReactJS, NodeJS, JS "
         ],
         "isItNew": "NEW",
-        "liveSite": "https://martial-arts-summer-camp.netlify.app",
-        "github": "https://github.com/programming-hero-web-course1/b712-summer-camp-client-side-KhondokarAlMaruf/tree/main"
+        "liveSite": "https://martial-arts-summer-camp.web.app/",
+        "github": "https://github.com/KhondokarAlMaruf/Martial-Arts-Summer-Camp-Client"
     },
     {
         "id": "2",
@@ -27,8 +27,8 @@
         "technology": [
             "ReactJS, NodeJS, JS"
         ],
-        "liveSite": " https://super-toy-cars.web.app/",
-        "github": " https://github.com/programming-hero-web-course-4/b7a11-toy-marketplace-server-side-KhondokarAlMaruf"
+        "liveSite": "https://super-toy-cars.web.app/",
+        "github": "https://github.com/KhondokarAlMaruf/Super-Toy-Cars-Client"
     },
     {
         "id": "3",
@@ -44,7 +44,7 @@
         ],
         "isItNew": "NEW",
         "liveSite": " https://the-foodies-a39b8.web.app/",
-        "github": "https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-client-side-KhondokarAlMaruf"
+        "github": "https://github.com/KhondokarAlMaruf/The-Foodies-Client"
     },
     {
         "id": "4",
@@ -59,6 +59,6 @@
             "ReactJS, NodeJS, JS"
         ],
         "liveSite": "https://playful-eclair-541bd2.netlify.app",
-        "github": "https://github.com/Porgramming-Hero-web-course/b7a9-career-hub-KhondokarAlMaruf"
+        "github": "https://github.com/KhondokarAlMaruf/Dream-Hub"
     }
 ]
