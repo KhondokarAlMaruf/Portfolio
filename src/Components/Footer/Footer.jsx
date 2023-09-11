@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <div className="mt-6">
       <div className="footer p-5 bg-slate-200 rounded-t-xl shadow-2xl  text-black ">
-        <div>
+        <div className="max-w-[992px] mx-auto">
           <div className="avatar">
             <div className="w-24 rounded-full ring ring-accent ring-offset-base-100 ring-offset-2">
               <img src={logo} alt="Maruf" />
@@ -19,7 +19,7 @@ const Footer = () => {
             </b>
           </p>
         </div>
-        <div>
+        <div className="max-w-[992px] mx-auto">
           <span className="footer-title">Social</span>
 
           <div className="flex flex-row gap-4">
